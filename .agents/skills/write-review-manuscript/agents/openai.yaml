@@ -1,0 +1,4 @@
+interface:
+  display_name: "Re:VIEW 原稿記法"
+  short_description: "Re:VIEW 5.9原稿の記法を参照して執筆・編集する"
+  default_prompt: "$write-review-manuscript を使い、このリポジトリの .re 原稿を正しいRe:VIEW記法で執筆・修正してください。"
