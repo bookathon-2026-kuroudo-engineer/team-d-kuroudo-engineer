@@ -1,8 +1,4 @@
-//embed[latex]{
-\setcounter{chapter}{9}
-//}
-
-= 第IV部　安全に変更を届ける
+= 安全に変更を届ける
 
 TODO: サンプルシステムの話をする
 TODO: テストの話をしたい
