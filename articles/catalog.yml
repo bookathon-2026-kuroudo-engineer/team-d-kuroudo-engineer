@@ -2,10 +2,10 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article_himeshi.re
   - article_akane.re
-  - article_yussak.re
   - article_ryooob.re
+  - article_himeshi.re
+  - article_yussak.re
 
 APPENDIX:
 
