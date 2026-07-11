@@ -2,6 +2,8 @@ image: vvakame/review:5.9
 
 build-pdf:
   script: # build-in-docker.sh の終盤と同じもの
+    - apt-get update -qq
+    - apt-get install -y -qq --no-install-recommends graphviz
     - ./setup.sh
     - npm run pdf
   artifacts:
