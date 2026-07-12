@@ -22,7 +22,8 @@ bookname: ReVIEW-Template
 language: ja
 
 # 書名
-booktitle: {name: "AIエージェントと始める開発参加 -- 現場の知識をソフトウェアに反映する", file-as: "reviewテンプレート"}
+booktitle: {name: "ノンプログラマが自分でできる業務システム改善"}
+subtitle: {name: "AIで自分のアイデアをカタチにしよう"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "くろうどえんじにあ編", file-as: "techboosterヘン"}]
